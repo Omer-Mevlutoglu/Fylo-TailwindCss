@@ -1,12 +1,79 @@
-# React + Vite
+# Fylo Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive landing page for Fylo - a file storage and collaboration platform. Built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+🌐 [Live Demo](https://fylo-tailwind-css.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Fylo Landing Page](/images/landing-img.png)
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡ Lightning fast performance with Vite
+- 📱 Fully responsive design
+- 🎨 Modern dark theme UI
+- 🔄 Animated components
+- 🎯 React Router integration
+- 💅 Styled with Tailwind CSS
+
+## 🛠️ Technologies Used
+
+- React
+- Vite
+- Tailwind CSS
+- React Router DOM
+- React Icons
+
+## 🏗️ Installation
+
+1. Clone the repository:
+```bash
+git clone [your-repo-url]
+cd tailProject
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+## 🖥️ Project Structure
+
+```
+src/
+├── components/         # Reusable UI components
+├── pages/             # Page components
+├── assets/           # Static assets
+└── App.jsx           # Main application component
+```
+
+## 📱 Components
+
+- **Header**: Navigation and logo
+- **Landing**: Hero section with main CTA
+- **Features**: Grid of feature boxes
+- **StayProductive**: Product benefits section
+- **Testimonials**: Customer testimonials
+- **GetStarted**: Call-to-action section
+- **Footer**: Site footer with links and contact info
+
+## 🎨 Styling
+
+The project uses Tailwind CSS for styling with custom configurations:
+- Custom animations
+- Responsive breakpoints
+- Dark theme colors
+- Custom utility classes
+
+## 🚀 Deployment
+
+The site is deployed on Vercel. You can deploy your own instance by:
+
+1. Push your code to GitHub
+2. Import the repository to Vercel
+3. Deploy!
+
