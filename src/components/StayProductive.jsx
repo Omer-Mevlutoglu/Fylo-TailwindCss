@@ -5,10 +5,7 @@ const StayProductive = () => {
     <section className="pb-[150px]">
       <div className="container grid grid-cols-1 md:grid-cols-2 gap-[30px] place-items-center">
         <div className="img">
-          <img
-            src="/src/assets/images/illustration-stay-productive.png"
-            alt="img"
-          />
+          <img src="/images/illustration-stay-productive.png" alt="img" />
         </div>
         <div className="text-white">
           <h1 className="text-[35px] font-medium leadading-[50px]">
@@ -31,7 +28,7 @@ const StayProductive = () => {
           >
             See how Fylo works
             <img
-              src="/src/assets/images/icon-arrow.svg"
+              src="/images/icon-arrow.svg"
               alt="arrow"
               className="w-[20px] h-[20px] animate-move-arrow"
             />

@@ -6,7 +6,7 @@ const Landing = () => {
       <div className="container ">
         <div className="element-center flex-col pt-[200px]">
           <div className="image">
-            <img src="/src/assets/images/landing-img.png" alt="Landing" />
+            <img src="/images/landing-img.png" alt="Landing" />
           </div>
           <div className="text-white text-center">
             <h1 className="text-[30px] md:text-[40px] font-semibold mb-[15px]">
@@ -32,7 +32,7 @@ const Landing = () => {
 
       <div className="w-full h-[200px]">
         <img
-          src="/src/assets/images/bg-curvy-desktop.svg"
+          src="/images/bg-curvy-desktop.svg"
           alt="Background curve"
           className="w-full h-full"
         />

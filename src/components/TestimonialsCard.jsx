@@ -7,7 +7,7 @@ const TestimonialsCard = ({ image, name, desc, role }) => {
 
       <div className="flex items-center gap-[15px]">
         <img
-          src={`/src/assets/images/${image}`}
+          src={`/images/${image}`}
           alt={name}
           className="w-[50px] h-[50px] rounded-full object-contain"
         />
