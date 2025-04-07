@@ -26,7 +26,7 @@ const Testimonials = () => {
     },
   ]);
   return (
-    <section className="pb-[150px]">
+    <section className="pb-[350px]">
       <div className="container relative">
         <div className="absolute left-[20px] top-[-35px]">
           <img src="/src/assets/images/bg-quotes.png" alt="quote" />
