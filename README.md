@@ -26,17 +26,20 @@ A modern, responsive landing page for Fylo - a file storage and collaboration pl
 ## 🏗️ Installation
 
 1. Clone the repository:
+
 ```bash
 git clone [your-repo-url]
 cd tailProject
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -64,6 +67,7 @@ src/
 ## 🎨 Styling
 
 The project uses Tailwind CSS for styling with custom configurations:
+
 - Custom animations
 - Responsive breakpoints
 - Dark theme colors
@@ -76,4 +80,3 @@ The site is deployed on Vercel. You can deploy your own instance by:
 1. Push your code to GitHub
 2. Import the repository to Vercel
 3. Deploy!
-
