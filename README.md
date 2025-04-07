@@ -4,7 +4,7 @@ A modern, responsive landing page for Fylo - a file storage and collaboration pl
 
 🌐 [Live Demo](https://fylo-tailwind-css.vercel.app/)
 
-![Fylo Landing Page](/images/landing-img.png)
+![Fylo Landing Page](public/images/landing-img.png)
 
 ## 🚀 Features
 
